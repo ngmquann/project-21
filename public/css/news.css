@@ -1,0 +1,7 @@
+.carousel-caption {
+    right: 0 !important;
+    left: auto !important;
+    text-align: left !important;
+    background: rgba(0, 0, 0, 0.5);
+    bottom: 0 !important;
+}
